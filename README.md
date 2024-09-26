@@ -1,4 +1,5 @@
-
+theme: jekyll-theme-dinky
+title: "Static Site Generator"
 
 # Arrowsmith
 #CN 11 *Angelo Raphael P. Chavez*
