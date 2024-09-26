@@ -5,9 +5,9 @@ Social Media
 [Facebook] (https://www.facebook.com/)
 [Messsenger] (https://www.messenger.com/)
 interests:
-video games
-social media
-action movies
-arts
-TV series
-swimming
+1. video games
+2. social media
+3. action movies
+4. arts
+5. TV series
+6. swimming
